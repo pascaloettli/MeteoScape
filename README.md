@@ -15,7 +15,7 @@ Each folders contains input data (anndata format) and scripts (R and Python) to 
   
 <code>python</code> contains the MeteoScape package. MeteoScape is based on <a href="https://github.com/yusuke-imoto-lab/CellMap">CellMap</a>. 
 
-NetCDF data are available on Zenodo repository: <a href="https://doi.org/10.5281/zenodo.11064128"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.11064128.svg" alt="DOI"></a> and should be downloaded inside the <code>Data</code> folder.
+NetCDF data are available on Zenodo repository: <a href="https://doi.org/10.5281/zenodo.11064128"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.11064128.svg" alt="DOI"></a> (to be downloaded and placed inside the <code>Data</code> folder) .
 
 
 
